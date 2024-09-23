@@ -1,0 +1,21 @@
+{
+    "name": "Turing Test",
+    "short_name": "Turing",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2c3e50",
+    "icons": [
+      {
+        "src": "https://github.com/TLabsTeam/idea-voting-assets/blob/4b551b435a30e850c2d0ddff5ef1ac9edd345e9a/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://github.com/TLabsTeam/idea-voting-assets/blob/4b551b435a30e850c2d0ddff5ef1ac9edd345e9a/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
